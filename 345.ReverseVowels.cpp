@@ -9,25 +9,8 @@ public:
             else if(t.find(s[right]) == string::npos) right--;
             else swap(s[left++], s[right--]);
         }
-        // for(int i = 0; i < s.length(); i++){
-        //     if(t.find(s[i]) != string::npos)
-        //         tmp.push_back(i);
-        // }
-        // for(int i = 0; i < tmp.size()/2; i++){
-        //     swap(s[tmp[i]], s[tmp[tmp.size() - 1 -i]]);
-        // }
         return s;
     }
- 
-    // public:
-    //     string reverseVowels(string s) {
-    //     int left = 0, right = s.size() - 1;
-    //     string t = "aeiouAEIOU";
-    //     while (left < right) {
-    //         if (t.find(s[left]) == string::npos) ++left;
-    //         else if (t.find(s[right]) == string::npos) --right;
-    //         else swap(s[left++], s[right--]);
-    //     }
-    //     return s;
-    // }
 };
+Runtime: 9 ms, faster than 54.96% of C++ online submissions for Reverse Vowels of a String.
+Memory Usage: 7.8 MB, less than 40.21% of C++ online submissions for Reverse Vowels of a String.
