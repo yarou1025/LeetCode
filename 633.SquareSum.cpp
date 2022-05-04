@@ -12,4 +12,7 @@ public:
         }
         return false;
     }
-};
+}
+Runtime: 6 ms, faster than 40.87% of C++ online submissions for Sum of Square Numbers.
+Memory Usage: 5.7 MB, less than 89.32% of C++ online submissions for Sum of Square Numbers.
+    
