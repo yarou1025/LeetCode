@@ -25,3 +25,7 @@ public:
         return true;
     }
 };
+
+
+Runtime: 51 ms, faster than 96.42% of C++ online submissions for Valid Palindrome II.
+Memory Usage: 26.5 MB, less than 10.86% of C++ online submissions for Valid Palindrome II.
