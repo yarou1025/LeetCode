@@ -24,3 +24,5 @@ public:
         return res;
     }
 };
+Runtime: 33 ms, faster than 14.99% of C++ online submissions for Top K Frequent Elements.
+Memory Usage: 13.7 MB, less than 72.22% of C++ online submissions for Top K Frequent Elements.
