@@ -26,3 +26,5 @@ public:
         else return true;
     }
 };
+Runtime: 60 ms, faster than 91.26% of C++ online submissions for Longest Word in Dictionary through Deleting.
+Memory Usage: 14.8 MB, less than 98.96% of C++ online submissions for Longest Word in Dictionary through Deleting.
