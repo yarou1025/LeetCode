@@ -26,3 +26,5 @@ public:
         return str;
     }
 };
+Runtime: 15 ms, faster than 56.85% of C++ online submissions for Sort Characters By Frequency.
+Memory Usage: 8.5 MB, less than 41.53% of C++ online submissions for Sort Characters By Frequency.
