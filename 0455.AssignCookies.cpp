@@ -19,5 +19,5 @@ public:
         return res;
     }
 };
-Runtime: 42 ms, faster than 36.87% of C++ online submissions for Assign Cookies.
-Memory Usage: 17.4 MB, less than 97.51% of C++ online submissions for Assign Cookies.
+Runtime: 40 ms, faster than 42.17% of C++ online submissions for Assign Cookies.
+Memory Usage: 17.3 MB, less than 97.51% of C++ online submissions for Assign Cookies.
