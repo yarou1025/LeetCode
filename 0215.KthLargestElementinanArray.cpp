@@ -1,4 +1,4 @@
-lass Solution {
+Class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
         if(nums.size() == 1) return nums[0];
