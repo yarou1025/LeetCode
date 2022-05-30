@@ -12,5 +12,5 @@ public:
         return true;
     }
 };
-Runtime: 2 ms, faster than 57.55% of C++ online submissions for Is Subsequence.
-Memory Usage: 6.4 MB, less than 33.35% of C++ online submissions for Is Subsequence.
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Is Subsequence.
+Memory Usage: 6.3 MB, less than 71.83% of C++ online submissions for Is Subsequence.
